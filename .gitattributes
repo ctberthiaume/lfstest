@@ -1,2 +1,3 @@
 forlfs.txt filter=lfs diff=lfs merge=lfs -text
 forlfs2.txt filter=lfs diff=lfs merge=lfs -text
+problem.png filter=lfs diff=lfs merge=lfs -text
